@@ -1,0 +1,3 @@
+# Excel
+
+1) SUM, MIN, MAX, AVERAGE, RANK
