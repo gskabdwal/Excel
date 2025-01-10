@@ -4,3 +4,4 @@
 2) TRIM, CONCAT, SUBSTITUTE, RIGHT, MID
 3) IF and COUNTIF
 4) DATETIME Functions
+5) Lookup Functions
