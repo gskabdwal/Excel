@@ -6,3 +6,4 @@
 4) DATETIME Functions
 5) Lookup Functions
 6) Data Tools
+7) Formatting Data and Tables
