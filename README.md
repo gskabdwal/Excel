@@ -8,3 +8,4 @@
 6) Data Tools
 7) Formatting Data and Tables
 8) Bar and Column Charts
+9) Line, Pie and Area Charts
