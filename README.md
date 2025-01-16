@@ -9,3 +9,5 @@
 7) Formatting Data and Tables
 8) Bar and Column Charts
 9) Line, Pie and Area Charts
+10) Scatter Plot, Histogram, Waterfall Chart, Sparklines
+
