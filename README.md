@@ -11,5 +11,6 @@
 9) Line, Pie and Area Charts
 10) Scatter Plot, Histogram, Waterfall Chart, Sparklines
 11) Named Ranges and INDIRECT Function
+12) Macros
 
 
