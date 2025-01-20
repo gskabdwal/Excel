@@ -12,5 +12,6 @@
 10) Scatter Plot, Histogram, Waterfall Chart, Sparklines
 11) Named Ranges and INDIRECT Function
 12) Macros
+13) Regression
 
 
