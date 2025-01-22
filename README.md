@@ -14,5 +14,5 @@
 12) Macros
 13) Regression
 14) Importing data from Web Page and PDF
-
+15) XLOOKUP
 
