@@ -15,4 +15,4 @@
 13) Regression
 14) Importing data from Web Page and PDF
 15) XLOOKUP
-
+16) Map Chart
